@@ -10,7 +10,7 @@ Install using [npm](https://www.npmjs.com/)
 
 Include `<script>` in `index.html`:
 
-`<script type="text/javascript" src="/node_modules/md-country-select/md-country-select.js"></script>`
+`<script type="text/javascript" src="node_modules/md-country-select/md-country-select.js"></script>`
 
 ## Usage
 
