@@ -23,3 +23,9 @@ Use as :
 `<md-country-select></md-country-select>`
 
 **Note:** Inspired by [ng-country-select](https://github.com/navinpeiris/ng-country-select)
+
+**Follow me on:**
+**[facebook](https://www.facebook.com/jhilkhe.khancha)**
+**[twitter](https://twitter.com/ayush_da)** 
+**[linkedIn](https://www.linkedin.com/in/ayush-bhandari-3b5776126)**
+**[github](https://github.com/ayush-bhandari)**
