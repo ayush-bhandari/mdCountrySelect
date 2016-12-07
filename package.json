@@ -1,0 +1,29 @@
+{
+  "name": "md-country-select",
+  "version": "1.0.0",
+  "description": "AngularJS and Material Design based Country Selection Directive",
+  "main": "mdCountrySelect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayush-bhandari/mdCountrySelect.git"
+  },
+  "keywords": [
+    "angularjs",
+    "material",
+    "materialdesign",
+    "mdCountrySelect",
+    "md-country-select",
+    "country",
+    "select",
+    "countryselect"
+  ],
+  "author": "Ayush Bhandari <aayushbhandari@yahoo.com> (ayushbhandari.com.np)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayush-bhandari/mdCountrySelect/issues"
+  },
+  "homepage": "https://github.com/ayush-bhandari/mdCountrySelect#readme"
+}
