@@ -28,4 +28,3 @@ Use as :
 **[facebook](https://www.facebook.com/jhilkhe.khancha)**
 **[twitter](https://twitter.com/ayush_da)** 
 **[linkedIn](https://www.linkedin.com/in/ayush-bhandari-3b5776126)**
-**[github](https://github.com/ayush-bhandari)**
