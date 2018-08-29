@@ -764,11 +764,15 @@
 	}
 	function mdCountrySelect() {
 	    var directive = {
-	        template: '<md-select placeholder="Select Country" ng-model="vm.country"><md-option ng-value="country" ng-repeat="country in vm.allCountries">{{country.name}}</md-option></md-select>',
+	        template: '<md-select placeholder="Select Country" ng-model="selectedCountry"><md-option ng-value="country" ng-repeat="country in vm.allCountries">{{country.name}}</md-option></md-select>',
 	        restrict: 'EA',
 	        controller: 'mdCountrySelectController',
 	        controllerAs: 'vm',
-	        bindToController: true
+	        bindToController: true,
+		scope: 
+		{
+		      selectedCountry: '=country'
+		},
 	    };
 	    return directive;
 	}
